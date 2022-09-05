@@ -4,6 +4,4 @@
 
 - To access the `APRS-Stream-Reconstruction-Pipeline` repository, please email me and I'll send you a link to the repository on `GitFront`.
 
-- The repository contains code I developed for the final project of a course.
-
-- The full repository is `Private` to prevent students from finding my source code.
+- The full repository contains code I developed for the final project of a course, and is set `Private` to prevent students from finding my source code.
