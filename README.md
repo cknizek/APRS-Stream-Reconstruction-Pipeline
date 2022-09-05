@@ -6,4 +6,4 @@
 
 - The repository contains code I developed for the final project of a course.
 
-- The repository is `Private` to prevent students from finding my source code.
+- The full repository is `Private` to prevent students from finding my source code.
